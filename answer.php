@@ -41,7 +41,7 @@
           echo "<br />";
           echo "<br />";
           echo "Your pay will be " . '$ ' . sprintf('%0.2f', $pay);
-          echo "the government will take " . '$ ' . sprintf('%0.2f', $government);
+          echo " The government will take " . '$ ' . sprintf('%0.2f', $government);
           ?>
         </div>
       </div>
