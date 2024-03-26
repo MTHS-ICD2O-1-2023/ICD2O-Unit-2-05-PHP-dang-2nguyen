@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html>
-
 <head>
   <meta charset="utf-8" />
   <meta name="description" content="Salary Program, in PHP" />
@@ -16,7 +15,6 @@
   <link rel="manifest" href="site.webmanifest" />
   <title>Salary Program,in PHP</title>
 </head>
-
 <body>
   <script defer src="https://code.getmdl.io/1.3.0/material.min.js"></script>
   <div class="mdl-layout mdl-js-layout mdl-layout--fixed-header">
@@ -26,6 +24,9 @@
       </div>
     </header>
     <main class="mdl-layout__content">
+      <div class="right-image">
+        <img src="./images/income_tax.jpg" alt="street image" width="250" />
+      </div>
       <div class="page-content-php">
         <div id="user-info">
           <?php
@@ -48,5 +49,4 @@
     </main>
   </div>
 </body>
-
 </html>

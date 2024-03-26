@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html>
-
 <head>
   <meta charset="utf-8" />
   <meta name="description" content="Salary Program, in PHP" />
@@ -25,6 +24,9 @@
       </div>
     </header>
     <main class="mdl-layout__content">
+      <div class="right-image">
+        <img src="./images/income_tax.jpg" alt="street image" width="250" />
+      </div>
       <br />
       <div class="page-content">Enter your employment information.</div>
       <div class="page-content-php">
